@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+    background-color: black;
+}
+
+h1 {
+    color: white;
+    margin-bottom: 40px;
+    font-size: 50px;
+    text-shadow: 2px 2px 4px #ffffff;
+    
+}
+
+i {
+  margin: 0 50px; /* 20px space left & right */
+    transition: transform 0.3s;
+
+}
+
+
+i:hover {
+    transform: scale(1.3);
+    cursor: pointer ;
+}   
+
+
+
+.fa-dollar-sign {
+    color: limegreen;
+}
+
+.fa-trophy {
+    color: gold;
+}  
